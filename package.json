@@ -1,8 +1,8 @@
 {
-  "name": "jsdoc",
+  "name": "ljve-jsdoc",
   "version": "3.4.0-dev",
   "revision": "1424228843897",
-  "description": "An API documentation generator for JavaScript.",
+  "description": "An API documentation generator for JavaScript with ljve.io specific support.",
   "keywords": [
     "documentation",
     "javascript"
@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jsdoc3/jsdoc"
+    "url": "https://github.com/marcominetti/ljve-jsdoc"
   },
   "dependencies": {
     "async": "~0.9.0",
@@ -43,18 +43,14 @@
   "bin": {
     "jsdoc": "./jsdoc.js"
   },
-  "bugs": "https://github.com/jsdoc3/jsdoc/issues",
-  "author": {
-    "name": "Michael Mathews",
-    "email": "micmath@gmail.com"
-  },
+  "bugs": "https://github.com/marcominetti/ljve-jsdoc/issues",
   "contributors": [
     {
-      "url": "https://github.com/jsdoc3/jsdoc/graphs/contributors"
+      "url": "https://github.com/marcominetti/ljve-jsdoc/graphs/contributors"
     }
   ],
   "maintainers": {
-    "name": "Jeff Williams",
-    "email": "jeffrey.l.williams@gmail.com"
+    "name": "Marco Minetti",
+    "email": "marco.minetti@novetica.org"
   }
 }
